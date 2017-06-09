@@ -1,0 +1,22 @@
+{
+    "widgets": [],
+    "menus": {
+        "locations": [],
+        "links": []
+    },
+    "pages": [
+        {
+            "title": "Front-page",
+            "slug": "front-page",
+            "template": "front-page.php",
+            "file_name": "index.html"
+        }
+    ],
+    "forms": [],
+    "forms_map": {
+        "front-page": [],
+        "404": []
+    },
+    "posts_per_page": 0,
+    "taxonomies": []
+}
