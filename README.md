@@ -9,4 +9,4 @@ This project contains a wordpress theme built using HTML5Boilerplate.
 
 ## For Development
 
-* Fork the repository and make your changes
+* Fork the repository and make your changes in the folder 'wordpress-theme-html5-boilerplate_v5-3-0-3'
